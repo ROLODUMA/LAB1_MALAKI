@@ -1,6 +1,6 @@
 # Git Commands Cheat Sheet
 
-### 1. Initialize a Repository
+#### 1. Initialize a Repository
 
 ```bash
 git init
